@@ -11,7 +11,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/go-redis/redis/v9"
+	"github.com/orange1fruit/redis/v9"
 )
 
 type redisHookError struct{}

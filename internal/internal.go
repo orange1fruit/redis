@@ -3,7 +3,7 @@ package internal
 import (
 	"time"
 
-	"github.com/go-redis/redis/v9/internal/rand"
+	"github.com/orange1fruit/redis/v9/internal/rand"
 )
 
 func RetryBackoff(retry int, minBackoff, maxBackoff time.Duration) time.Duration {

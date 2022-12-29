@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/go-redis/redis/v9"
+	"github.com/orange1fruit/redis/v9"
 )
 
 type redisHook struct{}

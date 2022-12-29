@@ -6,7 +6,7 @@ import (
 	"go.opencensus.io/trace"
 
 	"github.com/go-redis/redis/extra/rediscmd/v9"
-	"github.com/go-redis/redis/v9"
+	"github.com/orange1fruit/redis/v9"
 )
 
 type TracingHook struct{}

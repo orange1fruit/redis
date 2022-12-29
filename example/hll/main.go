@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/go-redis/redis/v9"
+	"github.com/orange1fruit/redis/v9"
 )
 
 func main() {

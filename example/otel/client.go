@@ -12,7 +12,7 @@ import (
 	"go.opentelemetry.io/otel/codes"
 
 	"github.com/go-redis/redis/extra/redisotel/v9"
-	"github.com/go-redis/redis/v9"
+	"github.com/orange1fruit/redis/v9"
 )
 
 var tracer = otel.Tracer("github.com/go-redis/redis/example/otel")
